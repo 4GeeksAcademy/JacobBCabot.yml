@@ -1,0 +1,81 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Jacob
+    last_name: Cabot
+    motto: Full Stack Developer
+    summary: |
+     Highly driven, adaptable, coachable full stack developer who is passionate in refining my technical and developer skills with the new trends that surrounds the modern world of technology. Strong focus on React.js, CSS, WordPress, Python, NodeJS, and PHP, with particular interest in Front/Back-end Development. When I'm not coding, you can probably find me weightlifting, spending time with my 3 children and 2 dogs, or doing activities to better myself including working on additional coding projects to deepen my understanding of the concepts and topics.
+
+    # Sidebar links
+    email: jacobcabothomes@gmail.com
+    phone: 443 812 9065
+    website: https://github.com/JacobBCabot 
+    linkedin: https://www.linkedin.com/in/jacob-cabot-8472a452/
+    github: JacobBCabot
+    twitter: 
+    
+
+    languages:
+      - idiom: English
+        level: Native
+
+    interests:
+      - item: Weightlifting
+
+      - item: Spending time with my children and pets
+
+      - item: Video Gaming
+
+education:
+    - degree:Full Stack Developer Certification
+      university: 4Geeks Academy
+      time: 2024
+      details: 16-weeks and over 300 hours of project-based, software developement teaching HTML5, CSS3, Bootstrap, SASS, React.js, FLUX, Webpack, Python, Django, RESTful API's, SQL, MongoDB, HTTP Architecture, AJAX, MVC, ORM, Migrations, Git and console functions|
+
+       
+experiences:
+    - role: Realtor 
+      time: 2014-2024
+      company: Re/Max Executive
+      details: |
+       •	Develop relationships with clients to help them accomplish their goals of buying or selling a home
+       •	Facilitate transactions from beginning contracts to the end with closing
+       •	Client-centric focus with high client retention due to top-tier customer service
+      
+
+projects:
+    intro: >
+         
+
+    assignments:
+      - title: 
+        link: "https://github.com/ixaxtav/thepokersociety"
+        tagline: "Built WordPress, React Js Context Provider for the front end. The Poker Society is a service app that allow poker players ranging from beginner level to professional level to visualized calendar with tournaments available in different casino in Miami FL."
+
+    
+skills:
+    toolset:
+      - name: Python & Django
+        level: 70%
+
+      - name: Javascript & jQuery
+        level: 90%
+
+      - name: Angular
+        level: 50%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 60%
+
+      - name: Sketch & Photoshop
+        level: 90%
